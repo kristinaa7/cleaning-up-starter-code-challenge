@@ -10,8 +10,8 @@ N/A
 ## Usage
 To learn more information about the marketing agency, Horiseon, use the nagivation bar on the top right-hand side of the website to filter down to the corresponding section.
 
-![Atl text](Develop/assets/images/screenshot1.png "Horiseon webpage")
-![Atl text](Develop/assets/images/screenshot2.png "Horiseon webpage")
+![Alt text](assets/images/pic1.png "Horiseon webpage")
+![Alt text](assets/images/pic2.png "Horiseon web page")
 
 ## Credits
 N/A
