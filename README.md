@@ -10,8 +10,12 @@ N/A
 ## Usage
 To learn more information about the marketing agency, Horiseon, use the nagivation bar on the top right-hand side of the website to filter down to the corresponding section.
 
+### Screenshots of Webpage
 ![Alt text](assets/images/pic1.png "Horiseon webpage")
 ![Alt text](assets/images/pic2.png "Horiseon web page")
+
+### Link to Deployed Website
+https://kristinaa7.github.io/intro-to-cleaning-up-starter-code/
 
 ## Credits
 N/A
